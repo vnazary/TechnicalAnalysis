@@ -9,6 +9,7 @@ Folder: [`Assignment2`](Assignment2)
 
 | File | Purpose |
 |---|---|
+| `Nazari_Vahid_CA_BDA400_A02.docx` | The assignment report, with a screenshot of each step |
 | `portfolio.txt` | The portfolio: one Toronto Stock Exchange symbol per line (RY.TO, TD.TO, SHOP.TO, ENB.TO, CNQ.TO) |
 | `install_packages.R` | Installs and loads quantmod, TTR, xts and zoo |
 | `technical_analysis_functions.R` | `load_stock_data()`, `calculate_statistics()`, `calculate_portfolio_statistics()` and the display and chart functions |
